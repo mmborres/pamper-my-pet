@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pamper-my-pet/static/css/main.fe5f58af.chunk.css",
+    "main.js": "/pamper-my-pet/static/js/main.0d9c4ef5.chunk.js",
+    "main.js.map": "/pamper-my-pet/static/js/main.0d9c4ef5.chunk.js.map",
+    "runtime~main.js": "/pamper-my-pet/static/js/runtime~main.99c81498.js",
+    "runtime~main.js.map": "/pamper-my-pet/static/js/runtime~main.99c81498.js.map",
+    "static/css/2.48f2b8f3.chunk.css": "/pamper-my-pet/static/css/2.48f2b8f3.chunk.css",
+    "static/js/2.1e39f7c4.chunk.js": "/pamper-my-pet/static/js/2.1e39f7c4.chunk.js",
+    "static/js/2.1e39f7c4.chunk.js.map": "/pamper-my-pet/static/js/2.1e39f7c4.chunk.js.map",
+    "index.html": "/pamper-my-pet/index.html",
+    "precache-manifest.1b01dbd9074c7d3a4e6ec27c9401a77d.js": "/pamper-my-pet/precache-manifest.1b01dbd9074c7d3a4e6ec27c9401a77d.js",
+    "service-worker.js": "/pamper-my-pet/service-worker.js",
+    "static/css/2.48f2b8f3.chunk.css.map": "/pamper-my-pet/static/css/2.48f2b8f3.chunk.css.map",
+    "static/css/main.fe5f58af.chunk.css.map": "/pamper-my-pet/static/css/main.fe5f58af.chunk.css.map",
+    "static/media/App.css": "/pamper-my-pet/static/media/Shopping-dog.f7f1f7ba.jpg",
+    "static/media/font-awesome.min.css": "/pamper-my-pet/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
